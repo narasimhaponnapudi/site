@@ -1,0 +1,59 @@
+*{margin: 0;
+padding: 0;
+background-color: #f1faee; 
+}
+.aa{
+    font-family: fantasy;
+    color: #3a86ff;
+    letter-spacing: .5px;
+    font-size: 3rem;
+    }
+.dd{
+    
+}
+.cc{
+width: 30%;
+    text-align: center;
+    margin: auto;
+    }
+.login{
+    color:#000;
+    border-color: blue;
+    font-size: 17px;
+    margin-left: 65%;
+    text-decoration: none;
+    width: 60px;
+    text-align: center;
+    border-radius: 7px;
+}
+.about{
+margin-left: 2em;
+font-size: 1.1em;
+}
+.aaa{
+    color: #2c4c75;
+    font-size: 1rem;
+    font-weight: 11px;
+}
+.bbb{
+    color: rgb(18, 18, 160);
+    text-align: center;
+    margin-top: 3%;
+}
+.aaaa{
+color: #1b7dfd;
+text-align: center;
+margin: 5%;
+
+}
+table{
+    font-size: 26px;
+    margin-top: 20px;
+    margin: auto;
+}
+.bbbb{
+    border-width: 3px;
+    border-color: #1b7dfd;
+    padding: 5px;
+    border-radius: 10px;
+}
